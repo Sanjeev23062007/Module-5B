@@ -23,7 +23,7 @@ print()
 print(np.sort(a,axis=0))
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/344b56e0-aa8b-4801-9bbe-82ded1fa8498)
+![Screenshot (149)](https://github.com/user-attachments/assets/fe2b0019-a533-4b1d-8e6b-1465ca52b498)
 
 ## Result
 Thus the python program for sorting each column in numpy has been implemented and executed successfully.
