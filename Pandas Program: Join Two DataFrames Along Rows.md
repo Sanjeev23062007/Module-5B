@@ -34,7 +34,7 @@ print(mer)
 ```
 
 ## Output
-![Screenshot (153)](https://github.com/user-attachments/assets/26df033a-9708-4c01-8739-4d60e35497e9)
+![image](https://github.com/user-attachments/assets/4eb89ace-f8d1-45de-8bdd-40cfd68478cd)
 
 ## Result
 Thus,the program has been executed successfully.
